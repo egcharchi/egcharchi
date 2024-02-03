@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @egcharchi
 - 👀 I’m interested in DevOps, Linux and Open Source Projects
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently learning AWS & Kubernetes
 - 📫 eg.pbstudio@gmail.com
 
 <!---
