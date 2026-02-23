@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @egcharchi
-- 👀 I’m interested in DevOps, Linux and Open Source Projects
-- 🌱 I’m currently learning AWS & Kubernetes
-- 📫 eg.pbstudio@gmail.com
+Infrastructure engineer with 10+ years in production Linux, virtualization, and mission-critical networking
 
 <!---
 egcharchi/egcharchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
